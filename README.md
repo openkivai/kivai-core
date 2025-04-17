@@ -1,9 +1,6 @@
 # kivai-core
-Core logic, libraries, and components for the Kivai language and protocol.
 
-# kivai-core
-
-The core logic, libraries, and reference implementation of the **Kivai Language Protocol** — the open, universal way to speak to intelligent devices.
+The core logic, libraries, and reference implementation of the **Kivai Protocol** — an open, universal way to communicate with intelligent devices in natural language.
 
 ---
 
